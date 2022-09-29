@@ -1,4 +1,4 @@
-import csv
+import csv 
 import sys
 
 from util import Node, StackFrontier, QueueFrontier
